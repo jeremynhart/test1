@@ -1,0 +1,93 @@
+{
+  "sections": {
+    "16331007070deffdf7": {
+      "type": "image-banner",
+      "blocks": {
+        "16331007070deffdf7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Leather Education",
+            "heading_size": "large"
+          }
+        },
+        "16331007070deffdf7-1": {
+          "type": "text",
+          "settings": {
+            "text": "GET TO KNOW LEATHER WITH TANDY’S EXTENSIVE LIBRARY OF LEATHERCRAFT KNOWLEDGE"
+          }
+        },
+        "16331007070deffdf7-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "16331007070deffdf7-0",
+        "16331007070deffdf7-1",
+        "16331007070deffdf7-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/leather-education-header.jpg",
+        "adapt_height_first_image": false,
+        "desktop_text_box_position": "center",
+        "show_text_box": false,
+        "image_overlay_opacity": 0,
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "1633100744e5b891e0": {
+      "type": "image-with-text",
+      "blocks": {
+        "1633100744e5b891e0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text"
+          }
+        },
+        "1633100744e5b891e0-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1633100744e5b891e0-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1633100744e5b891e0-0",
+        "1633100744e5b891e0-1",
+        "1633100744e5b891e0-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "color_scheme": "background-1",
+        "layout": "image_first"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "16331007070deffdf7",
+    "1633100744e5b891e0",
+    "main"
+  ]
+}
